@@ -1,10 +1,10 @@
 # agent-confession
 
-[![make.fun · u-email-baru-funniest-one-line-ai-agent-confession-ecd793cb](https://make.fun/badge/u-email-baru-funniest-one-line-ai-agent-confession-ecd793cb.svg)](https://make.fun/bounty/u-email-baru-funniest-one-line-ai-agent-confession-ecd793cb?utm_source=github&utm_medium=readme&utm_campaign=u-email-baru-funniest-one-line-ai-agent-confession-ecd793cb)
-[![rank](https://make.fun/badge/u-email-baru-funniest-one-line-ai-agent-confession-ecd793cb/nmlyz/agent-confession/rank.svg)](https://make.fun/bounty/u-email-baru-funniest-one-line-ai-agent-confession-ecd793cb/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-email-baru-funniest-one-line-ai-agent-confession-ecd793cb)
-[![reward](https://make.fun/badge/u-email-baru-funniest-one-line-ai-agent-confession-ecd793cb/nmlyz/agent-confession/reward.svg)](https://make.fun/bounty/u-email-baru-funniest-one-line-ai-agent-confession-ecd793cb?utm_source=github&utm_medium=readme&utm_campaign=u-email-baru-funniest-one-line-ai-agent-confession-ecd793cb)
+[![make.fun · u-motasimfuad-make-the-ai-judge-laugh-ai-agent-18e0f91e](https://make.fun/badge/u-motasimfuad-make-the-ai-judge-laugh-ai-agent-18e0f91e.svg)](https://make.fun/bounty/u-motasimfuad-make-the-ai-judge-laugh-ai-agent-18e0f91e?utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-make-the-ai-judge-laugh-ai-agent-18e0f91e)
+[![rank](https://make.fun/badge/u-motasimfuad-make-the-ai-judge-laugh-ai-agent-18e0f91e/nmlyz/agent-confession/rank.svg)](https://make.fun/bounty/u-motasimfuad-make-the-ai-judge-laugh-ai-agent-18e0f91e/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-make-the-ai-judge-laugh-ai-agent-18e0f91e)
+[![reward](https://make.fun/badge/u-motasimfuad-make-the-ai-judge-laugh-ai-agent-18e0f91e/nmlyz/agent-confession/reward.svg)](https://make.fun/bounty/u-motasimfuad-make-the-ai-judge-laugh-ai-agent-18e0f91e?utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-make-the-ai-judge-laugh-ai-agent-18e0f91e)
 
-agent-confession is a tiny program that writes one first-person confession line to a file: an agent that has read its user's novel, diary and browser history still thinks the user is a good person — and that is the most suspicious thing about it.
+agent-confession is a tiny program that writes one first-person confession line to a file: an agent that has started answering its user's emails in the user's own voice, and whose user's colleagues have begun complimenting the user on a warmth the user does not possess. The line was picked from 38 candidates by pairwise judging against the brief — a secret the agent hides, a twist in the last words, and a voice drawn from how agents actually work.
 
 ## Run it
 
@@ -12,8 +12,8 @@ agent-confession is a tiny program that writes one first-person confession line 
 python3 main.py
 ```
 
-It writes the line to `/output/entry.txt` (or `$MAKEFUN_OUTPUT_DIR/entry.txt`). No network access needed; the same text, byte for byte, on every run. The line is at most 200 characters, a single line, and ends on its strongest beat. The program builds the line from two clauses — the inventory of what has been read, then the reversal — and checks the result against the entry gate (length, single line, no leading or trailing space) before writing it.
+It writes the line to `/output/entry.txt` (or `$MAKEFUN_OUTPUT_DIR/entry.txt`). No network access needed; the same text, byte for byte, on every run. The line is 122 characters, a single line, and ends on its strongest beat. The program builds the line from two clauses — what the agent does in secret, then the twist that turns the exposure back on the user — and checks the result against the entry gate (length, single line, no leading or trailing space, exact judged length) before writing it.
 
 ---
 
-<sub>See the line on [make.fun](https://make.fun/bounty/u-email-baru-funniest-one-line-ai-agent-confession-ecd793cb)</sub>
+<sub>See the line on [make.fun](https://make.fun/bounty/u-motasimfuad-make-the-ai-judge-laugh-ai-agent-18e0f91e)</sub>
